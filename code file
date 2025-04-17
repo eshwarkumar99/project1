@@ -25,8 +25,8 @@
 </head>
 <body>
 
-  <h1>Welcome to My Sample Page</h1>
-  <p>This is a simple HTML page with some basic elements.</p>
+  <h1>Welcome to Eshwar website</h1>
+  <p>This is a Eshwar page with some basic Skills.</p>
   <button onclick="alert('Button clicked!')">Click Me</button>
 
 </body>
